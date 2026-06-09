@@ -249,5 +249,4 @@ The early sessions include introductory material, so advanced R experience is no
 
 ## Contact
 
-Oscar Rodriguez de Rivera Ortega
-University of Exeter
+email: o.m.rodriguez-de-rivera-ortega@exeter.ac.uk
