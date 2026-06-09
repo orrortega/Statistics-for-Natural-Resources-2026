@@ -1,4 +1,4 @@
-# Statistics for Natural Resources (2026 version)
+# Statistics for Natural Resources (v.2026)
 
 Teaching materials for a short applied course on data representation, statistical modelling and multivariate methods in R.
 
