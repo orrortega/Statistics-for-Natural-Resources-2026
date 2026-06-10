@@ -1,8 +1,7 @@
-# Final day — Time Series, GAMs and SEM with R
 
-This bundle contains updated teaching material for the final practical day on time series, Generalised Additive Models and Structural Equation Models in R. It is designed to follow the earlier sessions on data representation, GLMs, GLMMs and multivariate methods.
+This bundle contains teaching material for the final practical day on time series, Generalised Additive Models and Structural Equation Models in R. It is designed to follow the earlier sessions on data representation, GLMs, GLMMs and multivariate methods.
 
-The final day moves from recognising temporal structure, to modelling nonlinear relationships, to representing ecological systems as linked pathways. The emphasis is on practical interpretation, model checking and communicating results clearly.
+The session moves from recognising temporal structure, to modelling nonlinear relationships, to representing ecological systems as linked pathways. The emphasis is on practical interpretation, model checking and communicating results clearly.
 
 ## Files
 
